@@ -1,0 +1,16 @@
+﻿  Reading Qt configuration (D:/Projects/cpp/Components/Qt_6.2.0/6.2.0/msvc2019_64/bin/qmake)
+  uic QStrataTestTask.ui
+  rcc QStrataTestTask.qrc
+  moc QStrataTestTask.h
+  moc ..\Components\QCustomPlot\qcustomplot.h
+  moc ..\Components\DataGenerator\QDataGenerator.h
+   RCC: Warning: No resources in 'D:\Projects\cpp\QStrataTestTask\QStrataTestTask\QStrataTestTask.qrc'.
+  QDataGenerator.cpp
+  qcustomplot.cpp
+  QStrataTestTask.cpp
+  main.cpp
+  qrc_QStrataTestTask.cpp
+  moc_QStrataTestTask.cpp
+  moc_qcustomplot.cpp
+  moc_QDataGenerator.cpp
+  QStrataTestTask.vcxproj -> D:\Projects\cpp\QStrataTestTask\x64\Debug\QStrataTestTask.exe
